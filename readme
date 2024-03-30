@@ -16,7 +16,7 @@ The code was wrote a long time ago. Given a group of DNA sequences of the same l
 
 The function "change_nucleotide" in module "module_robustness.py" accepts 4 parameters.
 (1) "dna_file" : the file of DNA sequences
-(2) "error_rate" : the rate of nucleotides changed
+(2) "error_rate" : the rate of nucleotides to change
 (3) "error_type" : the type of error. Four options : "substitution", "insertion"
 , "deletion", "mix"
 (4) "dna_file_new" : the file name of changed DNA sequences
