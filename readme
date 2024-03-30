@@ -9,7 +9,7 @@ So what are the reasons Python is ugly, silly and terrible to use?
 (3) Incompetence in data structure and regular expression compared with Perl. Perl users should feel shocked how it creates complicated data structure easily on the fly and how it defines powerful regular expressions in a clean way. 
 (4) Extremely terrible exception handling. Sometimes Python halts (but not terminates) like a zombie process at some errors but never tells users why. In some other scenarios, it terminates unexpectedly. For example, you want to run some codes with different configuration of parameters within a loop. You need to find out what configuration yields good outcomes. No matter what happens, you want the loop to complete. However, Python can terminate the entire loop (process) at some errors.
 
-In a word, Python can handle simple and easy jobs and only those jobs. It's much like Windows system, easy to start but terrible to use later. Debates over best programming languages look pretty much like those over best operating systems. Windows users, in their whole lives, might never use any other kind of systems and believe it's the easiest. Mac users waste huge amount of money on terrible hardware pretending it's worthy. Only Unix/Linux users know what a good system should be.
+In a word, Python can handle simple and easy jobs and only those jobs. It's much like Windows system, easy to start but terrible to use later. Debates over best programming languages look pretty much like those over best operating systems. Windows users, in their entire lives, might never use any other kind of systems and believe it's the easiest. Mac users waste huge amount of money on terrible hardware pretending it's worthy. Only Unix/Linux users know what a good system should be.
 
 2. About the code
 The code was wrote a long time ago. Given a group of DNA sequences of the same length, it randomly substitutes, deletes or inserts certain number of nucleotides (bases).
@@ -23,14 +23,17 @@ The function "change_nucleotide" in module "module_robustness.py" accepts 4 para
 
 The function "change_nucleotide" in module "module_robustness.py" returns a list [n_base, n_err_base], with "n_base" being the number of bases and "n_err_base" the number of changes.
 
-3. Improvement
+3. Usage
+Modify "sample.py" as necessary (for example, add custom test codes) and run it.
+
+4. Improvement
 The code can be improved for DNA sequences of different length. Further, different probability distribution for different nucleotide contex can be simulated. 
 
-4. Troubleshooting
+5. Troubleshooting
 I don't like Python. This program is not going to be updated. So no bug report to me.
 
-5. Author
+6. Author
 Yiyi HUANG (yhuangcm@connect.ust.hk)
 
-6. License
+7. License
 GPL-3.0
