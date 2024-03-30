@@ -1,0 +1,36 @@
+computer simulation of substitutions, deletions, and insertions of nucleotides (bases) with applications to robustness testing for DNA storage algorithms or systems
+
+1. description
+Python is ugly, silly and terrible to use. People debate which language is best from time to time. Pythonists would say "Did you ever use Python? Did you learn it? Do you understand it?". Thus, I shared the code to prove that.
+
+So what are the reasons Python is ugly, silly and terrible to use? 
+(1) Forced indentation instead of curly braces for code blocks. Without curly braces, as a code block grows, it becomes harder to locate its beginning and end, let alone indent. Particularly, this makes it much more difficult to jump between code blocks, which could have been done easily (for example, in vim, pressing % jumps between ( and ), [ and ], { and }). What's worse, forced indentation makes programs much more difficult to read and understand when they contain complicated logic in terms of nested loops of "while" or "for" and conditional expressions "if... else if...". Python codes are only readable when they are short and involve only simple logic. People might suggest editor plugins such as vim indentation helper. Well, unfortunately, even with them, Python programs are far from readable. People might also suggest one or two space indentation instead of the usual 4-space (or Tab) indentation. Well, that does save some spaces but does not save the program essentially.
+(2) Ugly and silly syntax. Lots of nasty expressions like "var.hi(Sam).hello(Jan, did you read that book?).good_morning(What a lovely day!).apple(Oh, it decays).dog(black, fast, cute).cat(fat, Tall & indifferent)". C++ has object-oriented paradigm, too, but never presents that ugly or silly syntax. 
+(3) Incompetence in data structure and regular expression compared with Perl. Perl users should feel shocked how it creates complicated data structure easily on the fly and how it defines powerful regular expressions in a clean way. 
+(4) Extremely terrible exception handling. Sometimes Python halts (but not terminates) like a zombie process at some errors but never tells users why. In some other scenarios, it terminates unexpectedly. For example, you want to run some codes with different configuration of parameters within a loop. You need to find out what configuration yields good outcomes. No matter what happens, you want the loop to complete. However, Python can terminate the entire loop (process) at some errors.
+
+In a word, Python can handle simple and easy jobs and only those jobs. It's much like Windows system, easy to start but terrible to use later. Debates over best programming languages look pretty much like those over best operating systems. Windows users, in their whole lives, might never use any other kind of systems and believe it's the easiest. Mac users waste huge amount of money on terrible hardware pretending it's worthy. Only Unix/Linux users know what a good system should be.
+
+2. About the code
+The code was wrote a long time ago. Given a group of DNA sequences of the same length, it randomly substitutes, deletes or inserts certain number of nucleotides (bases).
+
+The function "change_nucleotide" in module "module_robustness.py" accepts 4 parameters.
+(1) "dna_file" : the file of DNA sequences
+(2) "error_rate" : the rate of nucleotides changed
+(3) "error_type" : the type of error. Four options : "substitution", "insertion"
+, "deletion", "mix"
+(4) "dna_file_new" : the file name of changed DNA sequences
+
+The function "change_nucleotide" in module "module_robustness.py" returns a list [n_base, n_err_base], with "n_base" being the number of bases and "n_err_base" the number of changes.
+
+3. Improvement
+The code can be improved for DNA sequences of different length. Further, different probability distribution for different nucleotide contex can be simulated. 
+
+4. Troubleshooting
+I don't like Python. This program is not going to be updated. So no bug report to me.
+
+5. Author
+Yiyi HUANG (yhuangcm@connect.ust.hk)
+
+6. License
+GPL-3.0

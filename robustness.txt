@@ -1,0 +1,360 @@
+Error rate: 0.0001
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted in each test: 5
+
+Error rate: 0.0001
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides deleted in each test: 5
+
+Error rate: 0.0001
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides inserted in each test: 5
+
+Error rate: 0.0001
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted, deleted or inserted in each test: 5
+
+Error rate: 0.0002
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted in each test: 11
+
+Error rate: 0.0002
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides deleted in each test: 11
+
+Error rate: 0.0002
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides inserted in each test: 11
+
+Error rate: 0.0002
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted, deleted or inserted in each test: 11
+
+Error rate: 0.0003
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted in each test: 16
+
+Error rate: 0.0003
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides deleted in each test: 16
+
+Error rate: 0.0003
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides inserted in each test: 16
+
+Error rate: 0.0003
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted, deleted or inserted in each test: 16
+
+Error rate: 0.001
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted in each test: 56
+
+Error rate: 0.001
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides deleted in each test: 56
+
+Error rate: 0.001
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides inserted in each test: 56
+
+Error rate: 0.001
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted, deleted or inserted in each test: 56
+
+Error rate: 0.007
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted in each test: 392
+
+Error rate: 0.007
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides deleted in each test: 392
+
+Error rate: 0.007
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides inserted in each test: 392
+
+Error rate: 0.007
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_1
+The number of nucleotides in each test: 56112
+The number of nucleotides substituted, deleted or inserted in each test: 392
+
+Error rate: 0.0001
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted in each test: 9
+
+Error rate: 0.0001
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides deleted in each test: 9
+
+Error rate: 0.0001
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides inserted in each test: 9
+
+Error rate: 0.0001
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted, deleted or inserted in each test: 9
+
+Error rate: 0.0002
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted in each test: 19
+
+Error rate: 0.0002
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides deleted in each test: 19
+
+Error rate: 0.0002
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides inserted in each test: 19
+
+Error rate: 0.0002
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted, deleted or inserted in each test: 19
+
+Error rate: 0.0003
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted in each test: 29
+
+Error rate: 0.0003
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides deleted in each test: 29
+
+Error rate: 0.0003
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides inserted in each test: 29
+
+Error rate: 0.0003
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted, deleted or inserted in each test: 29
+
+Error rate: 0.001
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted in each test: 96
+
+Error rate: 0.001
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides deleted in each test: 96
+
+Error rate: 0.001
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides inserted in each test: 96
+
+Error rate: 0.001
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted, deleted or inserted in each test: 96
+
+Error rate: 0.007
+Error type: substitution
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted in each test: 677
+
+Error rate: 0.007
+Error type: deletion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides deleted in each test: 677
+
+Error rate: 0.007
+Error type: insertion
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides inserted in each test: 677
+
+Error rate: 0.007
+Error type: mix
+The number of tests: 100
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: dna_2
+The number of nucleotides in each test: 96738
+The number of nucleotides substituted, deleted or inserted in each test: 677
+
