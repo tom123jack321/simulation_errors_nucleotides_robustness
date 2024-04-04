@@ -1,7 +1,7 @@
 import os
 from module_robustness import change_nucleotide
 
-error_rates = [0.0001, 0.0002, 0.0003, 0.001, 0.007]
+error_rates = [0.1, 0.2, 0.3]
 error_types = ["substitution", "deletion", "insertion", "mix"]
 original_files = ["dna_1", "dna_2"]
 # the number of tests for each file at every error rate every error type
@@ -24,7 +24,9 @@ if __name__ == "__main__":
       while( n_test < number_tests ) :
         if(os.path.isfile(dna_new)) : os.remove(dna_new)
         n_base, n_err_base = change_nucleotide(input_file, error_rate, error_type, dna_new)
+        # ===============================================================
         # Put some test codes here
+        # ===============================================================
         n_test += 1
         ###################### end while #################################
       success_rate = n_success/number_tests
