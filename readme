@@ -4,7 +4,7 @@ computer simulation of substitutions, deletions, and insertions of nucleotides (
 The python3 module "module_robustness.py" defines function "change_nucleotide" that randomly substitutes, deletes or inserts (or performs those operations randomly) nucleotides (bases) in a file of DNA sequences.
 
 2. About the code
-The code was wrote a long time ago. Given a group of DNA sequences of the same length, it randomly substitutes, deletes or inserts certain number of nucleotides (bases).
+The code was wrote a long time ago. Given a group of DNA sequences of the same length (recorded in a plain text file), it randomly substitutes, deletes, inserts or do any of the there operations certain number of nucleotides (bases) depending on error rates.
 
 The function "change_nucleotide" in module "module_robustness.py" accepts 4 parameters.
 (1) "dna_file" : the file of DNA sequences
@@ -16,7 +16,7 @@ The function "change_nucleotide" in module "module_robustness.py" accepts 4 para
 The function "change_nucleotide" in module "module_robustness.py" returns a list [n_base, n_err_base], with "n_base" being the number of bases and "n_err_base" the number of changes.
 
 3. Usage
-Modify "sample.py" as necessary (for example, add custom test codes) and run it.The robustness testing result is recorded in "robustness.txt".
+Modify "sample.py" or "sample_2.py" as necessary (for example, add custom test codes) and run it. The new DNA files are saved in "new_dna". The robustness testing result is recorded in "robustness.txt".
 
 4. Improvement
 The code can be improved for DNA sequences of different length. Further, different probability distribution for different nucleotide contex can be simulated. 
